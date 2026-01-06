@@ -4,11 +4,6 @@ Profile README for Afftene Taylor 💫
 
 <h1 align="center">Hey hey, I'm Afftene! 👋✨</h1>
 <h3 align="center">Multidisciplinary UI/UX Engineer • Designer • Creative Human • Based in Atlanta, GA 🍑</h3>
-
-<p style="margin-bottom: 0px" align="center">
- <img alt="Typing Animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HTML5;CSS+%7C+SCSS+%7C+SASS%7C+LESS;Angular+%7C+React;Javascript+%7C+Typescript)](https://git.io/typing-svg](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=true&width=435&lines=HTML5;CSS+%7C+SCSS+%7C+SASS%7C+LESS;Angular+%7C+React;Javascript+%7C+Typescript;Bootstrap+%7C+Tailwind+CSS+%7C+Angular+Material;Accessibility+(WCAG);Responsive+Design+%7C+Cross+Browser+Compatibility;ChatGPT+%7C+Claude+AI)](https://git.io/typing-svg)"/>
-</p>
-
 ---
 
 ### 🚀 What I'm Up To
